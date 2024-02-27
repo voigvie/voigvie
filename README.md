@@ -2,4 +2,4 @@
 
 - 📌| Brazilian 
 - 🖥️| Computer Science student at UFAL
-- 👩‍💻| Studying to be a front-end developer
+- 👩‍💻| Interested in the QA area

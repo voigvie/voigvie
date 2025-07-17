@@ -23,5 +23,6 @@
 ---
 
 ### 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/-Giovanna%20Vieira-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/giovanna-vieiraa)](https://linkedin.com/in/giovanna-vieiraa)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/giovanna-vieiraa)](https://linkedin.com/in/giovanna-vieiraa)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/gialmv)](https://instagram.com/gialmv)
 

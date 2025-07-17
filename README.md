@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou a Giovanna Almeida Vieira
+## 👋 Olá! Eu sou a Giovanna Vieira
 
 🎓 Graduanda em Ciência da Computação pela UFAL  
 💼 QA Analyst Jr

@@ -4,7 +4,6 @@
 💼 QA Analyst Jr  
 🔍 Foco e interesse em **Qualidade de Software (QA)**  
 🧪 Experiência com **testes automatizados e manuais**, explorando ferramentas como Selenium e Appium   
-💻 Também me interesso por acessibilidade, usabilidade e desenvolvimento de interfaces com **TypeScript, React e MongoDB**  
 
 ---
 
